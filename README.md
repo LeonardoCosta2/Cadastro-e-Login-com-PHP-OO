@@ -1,1 +1,2 @@
-<h1>test</h1>
+<h1>Sistema de cadastro de usuário e login utilizando PHP OO</h1>
+<p>Sistema simples de cadastro e login de usuário utilizando PHP orientado a objeto, basta subir o banco de dados e comecar a cadastrar e logar os usuarios cadastrado.</p>
